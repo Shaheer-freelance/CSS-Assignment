@@ -104,6 +104,11 @@ a{
     padding: 10px 0px 0px 0px;
 }
 
+.service-card:hover{
+    background-color: rgb(67, 67, 67);
+    border: 2px solid white;
+}
+
 .Services{
     display: flex;
     justify-content: space-between;
